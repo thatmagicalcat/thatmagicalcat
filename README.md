@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Pranjal-Patel
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning android development
-- 📫 email: wizard.live@hotmail.com
+```c++
+#include <vector>
+#include <string_view>
 
-<!---
-Pranjal-Patel/Pranjal-Patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+struct Programmer {
+  std::string_view name;
+  unsigned int age;
+  bool loves_cpp;
+  std::vector<std::string_view> known_languages;
+};
+
+int main() {
+  Programmer wizard {
+    .name = "Pranjal Patel",
+    .age = 15,
+    .loves_cpp = true,
+    .known_languages = { "C++", "C", "Rust", "Python", "Javascript", "x86 Assembly" }
+  };
+}
+```
+
+Discord: wizard#2219
