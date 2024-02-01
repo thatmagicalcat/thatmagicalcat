@@ -1,22 +1,24 @@
-```c++
-#include <vector>
-#include <string_view>
-
+```rs
 struct Programmer {
-  std::string_view name;
-  unsigned int age;
-  bool loves_cpp;
-  std::vector<std::string_view> known_languages;
-};
+    name: String,
+    age: u32,
+    loves_rust: bool,
+    known_languages: Vec<String>,
+    discord: String,
+}
 
-int main() {
-  Programmer wizard {
-    .name = "Pranjal Patel",
-    .age = 15,
-    .loves_cpp = true,
-    .known_languages = { "C++", "C", "Rust", "Python", "Javascript", "x86 Assembly" }
-  };
+fn main() {
+    let wizard = Programmer {
+        name: String::from("Pranjal Patel"),
+        age: 16,
+        loves_rust: true,
+        discord: String::from("thatmagicalcat"),
+        known_languages: vec![
+            "Rust".into(),
+            "C/C++".into(),
+            "Assembly".into(),
+            "Python".into(),
+        ],
+    };
 }
 ```
-
-Discord: wizard#2219
