@@ -10,11 +10,11 @@ struct Programmer {
 }
 
 fn main() {
-    let wizard = Programmer {
-        name: String::from("Pranjal Patel"),
+    let _ = Programmer {
+        name: String::from("thatmagicalcat"),
         age: 16,
         loves_rust: true,
-        discord: String::from("thatmagicalcat"),
+        discord: String::from("_thatmagicalcat"),
         known_languages: vec![
             "Rust".into(),
             "C/C++".into(),
