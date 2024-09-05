@@ -2,8 +2,6 @@
 
 [![](https://discord.c99.nl/widget/theme-2/815189874478546954.png)](https://discord.com/channels/@me/815189874478546954)
 
-![thatmagicalcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatmagicalcat)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_thatmagicalcat) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thatmagicalcat) 
 
