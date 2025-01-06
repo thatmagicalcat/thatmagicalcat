@@ -3,3 +3,5 @@
 [![](https://discord.c99.nl/widget/theme-2/815189874478546954.png)](https://discord.com/channels/@me/815189874478546954)
 
 ---
+
+contact me at: thatmagicalcat@duck.com
