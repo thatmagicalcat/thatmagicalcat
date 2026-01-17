@@ -2,7 +2,7 @@
   Tħ∀TΣΔGIC∀LCΔT
 </h2>
 
-<h4 align=center>❝ L'art pour l'art ❞</h4>
+<h4 align=center>" L'art pour l'art "</h4>
 
 I write code to explore ideas. not to optimize resumes. <br>
 Most things here exist because I found them interesting.
