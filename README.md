@@ -1,5 +1,5 @@
 <h2 align=center>
-  Tħ∀TΣΔGIC∀LCΔT
+  TħΔTΣ∀GiCΛLCΔT
 </h2>
 
 <h4 align=center>" L'art pour l'art "</h4>
